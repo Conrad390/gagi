@@ -150,7 +150,7 @@ Fully compatible for all major browsers. - <a href="#">About Us</a> | <a href="#
 </div>
 </footer>
 </body>
-</html
+</html>
 
 	<h1>https://conrad390.github.io/</h1>
 	
@@ -160,4 +160,4 @@ Fully compatible for all major browsers. - <a href="#">About Us</a> | <a href="#
 
 	
 </body>
-</html
+</html>
