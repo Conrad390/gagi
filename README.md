@@ -22,7 +22,7 @@ body{
 }
 </style>
 <header class="header">
-<div class="top"
+<div class="top">
 
 <div class="social">
 	<a href="#"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
@@ -88,31 +88,31 @@ And if you spend most of your time in your living room, especially because of st
 Did you know we have cinema therapy? Cinematherapy is a form of expressive therapy used to overcome medical and mental health problems. This therapy can change a person's ability to deal with negative thoughts, bad habits, and life events. 
 
 Those who participate in movie therapy watch movies that reflect their current problems. For example, comedy makes us laugh. Fifteen minutes of laughter is just as good for your heart as exercise. But don't underestimate sad movies! Sad movies also have a positive effect on your brain chemistry. Watching traumatic movies can boost the production of endorphins, chemicals associated with increased pain tolerance. Sad movies can actually put you in a good mood. 
-</br>
+
 <br>
 2. Relaxation.
 If you find it difficult to relax from work or other daily stressors, consider putting your phone or other device in another room or putting it on Do Not Disturb so you can focus on urgent matters. please.  You may find that you can focus on the storyline you are following without distractions. This may result in a more pleasant experience.
-</br>
+
 <br>
 3. Boosting immune systems.
 Get healthy with movies! Researchers have found that watching horror movies increases white blood cells, which are essential for recovering from injuries and fighting disease.But if you're someone with heart problems, avoid scary movies. should. Laughter may strengthen the immune system and lower stress-related stress hormones, according to some scientists. 
-</br>
+
 <br>
 4. Movies can be a motivation.
 Have you read the movie quotes many times? This shows that this movie made you feel more positive and inspired. We can learn a lot by watching movies. Movies motivate us to make positive changes in our lives, and strong characters in movies inspire us to do the same. You can increase your solid and inflexible self-motivation. We can incorporate this psychological effect into our lives, even if it's just a movie. 
-</br>
+
 <br>
 5. Provides Laughs And Bonding Time.
 Have you ever laughed your heart out while watching a movie? It can be among some of the very rare moments when a good uninhibited laugh comes freely. Well, that’s what a good comedy movie can do for you. It is as much a way to lighten the mood as it is a way to bond. A night with friends watching great comedy films can build memories and help you grow closer with friends!
-</br>
+
 <br>
 6. Effects on Emotional Intelligence
 Watching good documentaries and thought-provoking movies improves your emotional intelligence. It can also provoke various emotions such as empathy, hope, desire, and even fear. It also makes me think about certain topics that I don't think about often.
-</br>
+
 <br>
 7. Escape
 We all need a break from time to time. With so much going on in our lives, there are moments when things get very nerve-wracking and we need to escape for a while. This helps us think rationally again. What better way to escape than watching a nice movie with beautiful people and beautiful places, or a fantasy movie with fairies, elves and monsters? , takes you on a journey to another world.
-</br>
+
 <br>
 8. Widens our Imagination
 Some fantastical stories expand our imagination and mind and help us adapt to change and cope with reality. The success of superhero movies like the Star Wars series and The Avengers is proof that we want to spark our imaginations and witness evil fight for glory.Another world exists and the sky is the limit. I would like to imagine that there is. So a film like this develops connections between different hypothetical views of life and the world that might exist there.</p>
