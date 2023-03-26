@@ -15,7 +15,7 @@
 <body>
 <style>
 body{
-	background-image: url("mpo.png");
+	background-image: url("2heads.png");
 	background-image: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
